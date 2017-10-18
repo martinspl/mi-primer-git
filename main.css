@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+div{
+  background-color:  green;
+  font-size: 50px;
+  margin: 35px;
+}
+
+#saludos{
+  border: 20px solid red;
+  }
+/*estructura basica de un id*/
+#despedida{
+  border: 10px dotted yellow;
+}
+
+.frances{
+  color: red;
+  font-weight:  bold;
+  font-family: sans-serif;
+  box-shadow: 3px 6px 10px black;
+  background-image: linear-gradient(90deg, #ff0000, #0000ff);
+}
+.chino{
+  color: blue;
+  font-family: "Indie Flower", cursive;
+}
+.ingles{
+padding: 70px;
+background-image: url("batman.jpg");
+background: 100px;
+background-repeat: no-repeat;
+
+
+}
+/*solid es una linea continua y dotted son puntitos*/
+/*
+()parentesis
+[] corchetes
+{} llaves
+*/
